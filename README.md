@@ -38,7 +38,7 @@ An additional `Calendar` table was created in Power BI to support customized dat
 
 The source dataset is synthetic and fictional, so the dashboard should be interpreted as an HR analytics portfolio project rather than a report on a real organization.
 
-[View data model notes](docs/data_model.md)
+[View data model notes](docs/data_model.png)
 
 ## Data Preparation
 
@@ -111,7 +111,7 @@ The report includes:
 ```
 employee-analysis-dashboard/
 ├── docs/
-│   └── data_model.md
+│   └── data_model.png
 ├── dashboard/
 │   └── Employee_Analysis.pbix
 ├── screenshots/
