@@ -108,13 +108,13 @@ The report includes:
 
 ## Project Structure
 
-```text
+```
 employee-analysis-dashboard/
-|-- docs/
-|   `-- data_model.md
-|-- dashboard/
-|   `-- Employee_Analysis.pbix
-|-- screenshots/
-|   `-- dashboard_preview.png
-`-- README.md
+├── docs/
+│   └── data_model.md
+├── dashboard/
+│   └── Employee_Analysis.pbix
+├── screenshots/
+│   └── dashboard_preview.png
+└── README.md
 ```
